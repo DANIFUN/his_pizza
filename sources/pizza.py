@@ -35,5 +35,9 @@ RECIPES = {
     'mediterranea': {
         'ingredients': {'mozzarella': 3, 'pepper': 4, 'onion': 3},
         'price': 11,
+    },
+    'paysanne': {
+        'ingredients': {'ham': 3, 'champignon': 2, 'tomate': 3, 'onion': 2},
+        'price': 11,
     }
 }
